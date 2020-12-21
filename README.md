@@ -29,8 +29,8 @@ This is my new portfolio created with React.  This portfolio contains informatio
 - Run 'npm start' to begin application
 
 # Links
-- Link to repository: https://github.com/MahmoudAbdulrhman/my-porfolio/tree/main/my-portfolio
-- Link to website: https://mahmoudabdulrhman.github.io/my-porfolio/
+- Link to repository: https://github.com/MahmoudAbdulrhman/react-portfolio.1
+- Link to website: https://mahmoudabdulrhman.github.io/react-portfolio.1/
 
 # Screenshot
 ![Screenshot](src/assets/images/ss.PNG)
