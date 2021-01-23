@@ -4,6 +4,12 @@ import Project from '../Project';
 function Portfolio() {
     const [projects] = useState([
         {
+            name: 'TransCard',
+            desciption: 'Travel with ease with our new contactless virtual train ticket, transferCard.',
+            link: 'https://transfercard.herokuapp.com/',
+            github: 'https://github.com/itsrheine/transferCard'
+        },
+        {
             name: 'Travel Dashboard',
             desciption: 'Travel Search Engine',
             link: 'https://itsrheine.github.io/Travel-Dashboard/',
